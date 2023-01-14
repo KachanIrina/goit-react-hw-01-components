@@ -4,7 +4,7 @@ import friends from '../data/friends';
 import transactions from '../data/transactions';
 
 import { Profile } from './Profile/Profile';
-import { Statistics } from './Statistics/Statist';
+import { Statistics } from './Statistics/Statistics';
 import { FriendList } from './FriendList/FriendList';
 import { TransactionHistory } from './Transaction/TransactionHistory';
 
