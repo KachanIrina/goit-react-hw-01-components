@@ -1,0 +1,13 @@
+.friends {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+    background-color: white;
+    list-style: none;
+    padding-inline-start: 0;
+
+}
